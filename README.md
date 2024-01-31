@@ -6,4 +6,4 @@ A simple work day planning app that utilizes Day.js and jQuery. It saves data to
 
 ![Application image](READMEimage.png)
 
-### Deployed site can be found [here]()
+### Deployed site can be found [here](https://abriquelet.github.io/workday_planner/)
